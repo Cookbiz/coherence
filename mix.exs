@@ -47,7 +47,7 @@ defmodule Coherence.Mixfile do
   defp deps do
     [
       {:ecto_sql, "~> 3.0"},
-      {:comeonin, "~> 4.0"},
+      {:comeonin, "~> 5.3"},
       {:bcrypt_elixir, "~> 1.1"},
       {:phoenix, "~> 1.4"},
       {:phoenix_html, "~> 2.12"},
